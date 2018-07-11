@@ -1,0 +1,334 @@
+#: currency-per-product-for-woocommerce.php:112
+msgid "Settings"
+msgstr ""
+
+#: currency-per-product-for-woocommerce.php:115
+msgid "Unlock All"
+msgstr ""
+
+#: includes/alg-wc-cpp-exchange-rates-functions.php:21
+msgid "Yahoo"
+msgstr ""
+
+#: includes/alg-wc-cpp-exchange-rates-functions.php:22
+msgid "European Central Bank (ECB)"
+msgstr ""
+
+#: includes/alg-wc-cpp-exchange-rates-functions.php:23
+msgid "TCMB"
+msgstr ""
+
+#: includes/alg-wc-cpp-functions.php:107
+msgid "Guest"
+msgstr ""
+
+#: includes/class-alg-wc-cpp-core.php:262
+#: includes/admin/class-alg-wc-cpp-settings-general.php:125
+msgid ""
+"Only one product can be added to the cart. Clear the cart or finish the "
+"order, before adding another product to the cart."
+msgstr ""
+
+#: includes/class-alg-wc-cpp-core.php:278
+#: includes/admin/class-alg-wc-cpp-settings-general.php:132
+msgid ""
+"Only products with same currency can be added to the cart. Clear the cart or "
+"finish the order, before adding products with another currency to the cart."
+msgstr ""
+
+#: includes/class-alg-wc-cpp-core.php:318
+#, php-format
+msgctxt "Price range: from-to"
+msgid "%1$s&ndash;%2$s"
+msgstr ""
+
+#: includes/class-alg-wc-cpp-currency-reports.php:37
+msgid "Merge all currencies"
+msgstr ""
+
+#: includes/class-alg-wc-cpp-currency-reports.php:38
+#, php-format
+msgid "Show reports only in %s"
+msgstr ""
+
+#: includes/class-alg-wc-cpp-currency-reports.php:49
+msgid "All currencies"
+msgstr ""
+
+#: includes/class-alg-wc-cpp-currency-reports.php:50
+#, php-format
+msgid "Reports currency: %s"
+msgstr ""
+
+#: includes/class-alg-wc-cpp-currency-reports.php:85
+msgid "Merge all"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-metaboxes.php:36
+#: includes/admin/class-alg-wc-settings-cpp.php:24
+msgid "Currency per Product"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-metaboxes.php:188
+msgid "Product Currency"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-metaboxes.php:189
+msgid "Update product after you change this field's value."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:24
+msgid "General"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:63
+msgid "Currency per Product Options"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:68
+msgid "Currency per Product for WooCommerce"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:69
+msgid "Enable plugin"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:81
+msgid "Shop Behaviour Options"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:86
+msgid "Shop Behaviour"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:92
+msgid ""
+"Show prices in different currencies (and set cart and checkout behaviour "
+"separately)"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:93
+msgid "Convert to shop default currency (including cart and checkout)"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:103
+msgid "Cart and Checkout Behaviour Options"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:108
+msgid "Cart and Checkout Behaviour"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:109
+msgid ""
+"This option is ignored and always set to \"Convert to shop default currency"
+"\", if you selected \"Convert to shop default currency\" as \"Shop Behaviour"
+"\" option."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:115
+msgid "Convert to shop default currency"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:116
+#: includes/admin/class-alg-wc-cpp-settings-general.php:123
+msgid "Leave product currency (allow only one product to be added to cart)"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:117
+#: includes/admin/class-alg-wc-cpp-settings-general.php:130
+msgid ""
+"Leave product currency (allow only same currency products to be added to "
+"cart)"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:118
+msgid "Convert to currency of last product in cart"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:119
+msgid "Convert to currency of first product in cart"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:123
+#: includes/admin/class-alg-wc-cpp-settings-general.php:130
+msgid "Message"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:143
+msgid "Additional Options"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:144
+msgid ""
+"Save module's settings after changing this options to see new settings "
+"fields."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:149
+msgid "Currency per Product Authors"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:150
+#: includes/admin/class-alg-wc-cpp-settings-general.php:157
+#: includes/admin/class-alg-wc-cpp-settings-general.php:164
+#: includes/admin/class-alg-wc-cpp-settings-general.php:171
+#: includes/admin/class-alg-wc-cpp-settings-general.php:189
+#: includes/admin/class-alg-wc-cpp-settings-general.php:197
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:156
+msgid "Currency per Product Authors User Roles"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:163
+msgid "Currency per Product Categories"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:170
+msgid "Currency per Product Tags"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:183
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:188
+msgid "Fix Mini Cart"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:190
+msgid ""
+"Enable this option if you have issues with currency symbol in mini cart. It "
+"will recalculate cart totals on each page load."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:196
+msgid "Currency Reports"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:198
+msgid "This will add currency selection to admin bar in reports."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:209
+msgid "Update now"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:210
+#, php-format
+msgid "%s until next update."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:215
+msgid "Exchange Rates Updates Options"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:216
+msgid ""
+"Exchange rates for currencies <strong>won't be used</strong> if \"Cart and "
+"Checkout Behaviour\" is set to one of \"Leave product currency ...\" options."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:221
+msgid "Exchange Rates Updates"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:222
+msgid "Possible values: Enter rates manually; Update rates automatically."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:228
+msgid "Enter rates manually"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:229
+msgid "Update rates automatically"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:232
+#, php-format
+msgid ""
+"To enable automatic exchange rates, please get <a target=\"_blank\" href=\"%s"
+"\">Currency per Product for WooCommerce Pro</a> plugin."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:238
+msgid "Update Rate"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:244
+msgid "Update Hourly"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:245
+msgid "Update Twice Daily"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:246
+msgid "Update Daily"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:250
+msgid "Update Server"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:264
+msgid "Currencies Options"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:265
+#, php-format
+msgid ""
+"Your shop base currency %s will be automatically added to the currencies "
+"list on product edit page, so you <strong>don't need</strong> to add it to "
+"the list below."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:271
+msgid "Total Currencies"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:276
+#, php-format
+msgid ""
+"To add more than one additional currency, please get <a target=\"_blank\" "
+"href=\"%s\">Currency per Product for WooCommerce Pro</a> plugin."
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:307
+msgid "Currency"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:315
+msgid "Exchange rate"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:325
+msgid "Product Authors"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:337
+msgid "Product Authors User Roles"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:349
+msgid "Product Categories"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-general.php:361
+msgid "Product Tags"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-section.php:47
+msgid "Reset Section"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-section.php:52
+msgid "Reset settings"
+msgstr ""
+
+#: includes/admin/class-alg-wc-cpp-settings-section.php:53
+msgid "Reset"
+msgstr ""
