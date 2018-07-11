@@ -1,4 +1,5 @@
 <?php
+
 /*
 Plugin Name: Currency per Product for WooCommerce
 Plugin URI: https://wpfactory.com/item/currency-per-product-for-woocommerce/
@@ -12,6 +13,7 @@ Copyright: © 2018 Algoritmika Ltd.
 WC tested up to: 3.4
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
+this is commmmmmmmm
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
