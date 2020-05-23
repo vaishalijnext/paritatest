@@ -47,7 +47,7 @@ if ( ! class_exists( 'Alg_WC_CPP' ) ) :
  */
 final class Alg_WC_CPP {
 
-	/**
+	/** testing testing
 	 * Plugin version.
 	 *
 	 * @var   string
