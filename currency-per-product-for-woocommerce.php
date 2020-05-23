@@ -50,7 +50,7 @@ final class Alg_WC_CPP {
 	/** testing testing data testing log
 	 * Plugin version.
 	 *
-	 * @var   string
+	 * @var   string testing
 	 * @since 1.0.0
 	 */
 	public $version = '1.2.1';
